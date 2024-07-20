@@ -1,0 +1,14 @@
+{
+  "name": "sample-bookshop-back",
+  "version": "1.0.0",
+  "description": "Sample Bookshop App Back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bluVshal",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
